@@ -16,7 +16,7 @@ namespace arrayreview
 
             Console.WriteLine(names[0]); Console.WriteLine(names[1]); Console.WriteLine(names[2]);
             Console.WriteLine(names[3]); Console.WriteLine(names[4]);
-            //Console.WriteLine(numbers[0]); Console.WriteLine(numbers[1]); Console.WriteLine(numbers[2]);
+            //Console.WriteLine(numbers[0]); Console.WriteLine(numbers[1]); Console.WriteLine(numbers[2]); 
             //  Console.WriteLine(numbers[3]);
             //this code does the same thing as the for loop below but it takes more time to write 
             for (int index =0; index < 4; index++)
